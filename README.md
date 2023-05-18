@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NirmalKodikara
-- 👀 I’m interested in Coding & Web Designing
-- 🌱 I’m currently learning HTML,CSS,C++ & other programming languages
-- 💞️ I’m looking to collaborate on Something Different
+- 👀 I’m interested in...
+- 🌱 I’m currently learning..
+- 💞️ I’m looking to collaborate on....
 - 📫 How to reach me...
 
 <!---
